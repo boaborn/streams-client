@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "streams": [
+    {
+      "title": "E-Sports",
+      "description": "Gaming show",
+      "userId": "100176128819341939969",
+      "id": 1
+    },
+    {
+      "title": "My Streaming Component Reuse!",
+      "description": "Watch me refactor some components!",
+      "id": 2
+    },
+    {
+      "title": "Hello World",
+      "description": "first stream",
+      "userId": "100176128819341939969",
+      "id": 3
+    },
+    {
+      "title": "I am just a stream",
+      "description": "This stream is not funny at all",
+      "userId": "100176128819341939969",
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
