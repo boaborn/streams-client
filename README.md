@@ -1,4 +1,3 @@
 #README
 
-History object
-(dispatch, getState)
+## Stream Client react app
